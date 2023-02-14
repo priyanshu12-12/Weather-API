@@ -1,0 +1,19 @@
+.nav{
+    background-color: rgb(154, 61, 61);
+    color: aliceblue;
+}
+
+.card{
+    padding: 1%;
+    position: relative;
+    margin-top: 4%;
+    left: 41%;
+    width: 23%;
+    background-color: antiquewhite;
+    border: 1px solid rgb(202, 189, 173);
+    box-shadow: 2px 1px 1px 2px rgb(202, 189, 173);
+}
+
+button{
+    padding: 1%;
+}
